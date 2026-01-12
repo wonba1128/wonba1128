@@ -3,7 +3,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:wonba1128@gmail.com)](mailto:wonba1128@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wonbae-lee-892251398/)](https://www.linkedin.com/in/wonbae-lee-892251398/)
-![Profile Views](https://komarev.com/ghpvc/?username=wonba1128&color=blueviolet&style=flat-square)
 
 <br/>
 
