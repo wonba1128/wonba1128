@@ -25,7 +25,7 @@
 ## 📚 관심사 & Project
 
 * 자동화된 데이터 파이프라인과 안정적인 시스템 구축에 관심있습니다.
-* 교육용 챗봇 프로젝트(Data Pipeline & Infra)를 구현했습니다. **[Edu-Chatbot Project](https://github.com/Edu-Navigator/Edu-Chatbot)**
+* 교육용 챗봇 프로젝트(Data Pipeline & Infra)를 개발했습니다. **[Edu-Chatbot Project](https://github.com/Edu-Navigator/Edu-Chatbot)**
 * 문의주세요. **[wonba1128@gmail.com](mailto:wonba1128@gmail.com)**
 
 <br/>
